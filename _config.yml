@@ -17,12 +17,11 @@ paginate:	2 # 每页显示文章数量
 
 name: 'biubiubomb'   # 你的昵称
 bio: >
-  Mea suas vituperatoribus et, virtute corpora quaestio cum ut.
-  Ne solet nostrum complectitur pri, vis ut inani populo.   
-author_image: "/assets/images/author.jpg"  #个人头像
+  
+author_image: "assets/images/author.jpg"  #个人头像
 twitter_username: 
 github_username: biubiubomb
-coding_username: biubiubomb  # 你的 Coding.net 用户名
+coding_username: biubiubomb
 
 # Build settings
 markdown: kramdown
